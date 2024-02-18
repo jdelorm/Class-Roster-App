@@ -14,4 +14,41 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="students.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="networkStudents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="roster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="securityStudents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="softwareStudents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="students.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="degree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="networkStudents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="roster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="securityStudents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="softwareStudents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
