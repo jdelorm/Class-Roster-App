@@ -3,15 +3,15 @@ Title: Student Roster Management App
 Purpose: To manage a class roster by adding, removing, and printing student information, while categorizing students based on their degree program (Network, Security, or Software). 
 The program validates email addresses, calculates the average days in course for each student, and prints information based on degree program.
 
-Author: John DeLorme
+Author: jdelorm
 
-Contact: jdelorm@wgu.edu
+Contact: jdelorm@bot.com
 
 Version: 1.5
 
-Date: 9/18/2024
+Date: 4/9/2020
 
-IDE: Visual Studio 2024
+IDE: Visual Studio 2020
 
 C++ Version: C++17
 
