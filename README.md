@@ -15,12 +15,20 @@ IDE: Visual Studio 2024
 
 C++ Version: C++17
 
-Libraries:
+Standard Libraries:
 
-1. <iomanip>
-2. <iostream>
-3. <sstream>
-4. <string>
+<iomanip> (for formatting output)
+<iostream> (for input/output operations)
+<sstream> (for string stream operations)
+<string> (for handling strings)
+
+Custom Header Files:
+
+students.h (for base student class definition)
+networkStudents.h (for network student class definition)
+securityStudents.h (for security student class definition)
+softwareStudents.h (for software student class definition)
+roster.h (for the roster management class)
 
 How to Get Program to Run:
 
